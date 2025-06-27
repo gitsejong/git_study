@@ -9,6 +9,9 @@ public class Main {
             System.out.println("i = " + i);
             System.out.println("점프!!!");
             System.out.println("날아라");
+            System.out.println("암호기능");
+            //팀장이 필요해서 수정
+
 
         }
     }
