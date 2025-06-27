@@ -8,6 +8,8 @@ public class Main {
 
             System.out.println("i = " + i);
             System.out.println("점프!!!");
+            System.out.println("날아라");
+
         }
     }
 }
